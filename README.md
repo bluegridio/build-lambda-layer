@@ -26,4 +26,4 @@ Run the script and provide the package name as first argument.
 $ ./build-lambda-layer.sh curl
 ```
 
-![](http://g.recordit.co/VmPFld4WRj.gif)
+![](http://g.recordit.co/fDlhSOtlZB.gif)
