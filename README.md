@@ -4,7 +4,7 @@
 
 > Solution for AWS Lambda Layer that contains cryptography library.
 
-[AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) built on ``Mac OS`` that contain ``cryptography``packge will result in an error.
+[AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) built on ``Mac OS`` that contain ``cryptography``package will result in an error.
 ```shell
 ImportError: /var/task/cryptography/hazmat/bindings/_constant_time.so: invalid ELF header
 ```
